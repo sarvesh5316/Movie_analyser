@@ -4,4 +4,4 @@ Website For getting short description or details about different movies by fetch
 #
 #
 #
-Link for Deployed Website: https://sarvesh5316.github.io/movie_analyser/
+Link of Deployed Website: https://sarvesh5316.github.io/movie_analyser/
